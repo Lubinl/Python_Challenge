@@ -58,7 +58,7 @@ Both of these challenges encompass a real-world situation where your newfound Py
 
 ## PyPoll
 
-![Vote Counting](Images/Vote_counting.png)
+![Vote Counting](Ima_Dges/Vote_counting.png)
 
 * In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 
