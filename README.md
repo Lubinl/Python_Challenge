@@ -41,15 +41,15 @@ I used a set of poll data called election_data.csv, which was provided. Tasked t
 
 ## File Descriptions
 
-PyBank data set
+PyBank data set:
 
-budget_data.csv
+File name: budget_data.csv
 
 The dataset is composed of two columns: Date and Profit/Losses.
 
-PyPoll data set
+PyPoll data set:
 
-election_data.csv
+File name: election_data.csv
 
 The dataset is composed of three columns: Voter ID, County, and Candidate.
 
