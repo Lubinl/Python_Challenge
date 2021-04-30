@@ -7,7 +7,7 @@
 
 ## Background
 
-###PyBank
+PyBank
 
 In this challenge, I was tasked with creating a Python script for analyzing the financial records of a company. With the use of a set of financial data called budget_data.csv.
 
@@ -23,7 +23,7 @@ Tasked with creating a Python script that analyzes the records to calculate each
 
 - The greatest decrease in losses (date and amount) over the entire period
 
-###PyPoll
+PyPoll
 
 In this challenge, I was tasked with helping a small, rural town modernize its vote counting process.
 
@@ -41,13 +41,13 @@ I used a set of poll data called election_data.csv, which was provided. Tasked t
 
 ## File Descriptions
 
-###PyBank data set
+PyBank data set
 
 budget_data.csv
 
 The dataset is composed of two columns: Date and Profit/Losses.
 
-###PyPoll data set
+PyPoll data set
 
 election_data.csv
 
@@ -57,7 +57,7 @@ The dataset is composed of three columns: Voter ID, County, and Candidate.
 
 Scripts were created using Python (Version 3.8.8) in Visual Studio Code (Version 1.55.2). 
 
-### Applied use of:
+Applied use of:
 
 - For Loop statements
 - Conditional If statements
